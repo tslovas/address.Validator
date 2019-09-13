@@ -1,0 +1,12 @@
+C:\Temp\address.Validator\obj\Debug\address.Validator.vbprojAssemblyReference.cache
+C:\Temp\address.Validator\obj\Debug\address.Validator.Form1.resources
+C:\Temp\address.Validator\obj\Debug\address.Validator.Resources.resources
+C:\Temp\address.Validator\obj\Debug\address.Validator.vbproj.GenerateResource.cache
+C:\Temp\address.Validator\obj\Debug\address.Validator.vbproj.CoreCompileInputs.cache
+C:\Temp\address.Validator\bin\Debug\address.Validator.exe.config
+C:\Temp\address.Validator\bin\Debug\address.Validator.exe
+C:\Temp\address.Validator\bin\Debug\address.Validator.pdb
+C:\Temp\address.Validator\bin\Debug\address.Validator.xml
+C:\Temp\address.Validator\obj\Debug\address.Validator.exe
+C:\Temp\address.Validator\obj\Debug\address.Validator.xml
+C:\Temp\address.Validator\obj\Debug\address.Validator.pdb
